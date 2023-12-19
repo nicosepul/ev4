@@ -1,0 +1,26 @@
+{
+    "alumnos": [
+      {
+        "id":1,
+        "nombre_alumno": "Nicolas",
+        "carrera": "Informatica",
+        "asignatura": "Programacion",
+        "promedio_de_notas": 5
+      },
+      {
+        "id":2,
+        "nombre_alumno": "Juan",
+        "carrera": "Física",
+        "asignatura": "Matematicas",
+        "promedio_de_notas": 6
+      },
+      {
+        "id":3,
+        "nombre_alumno": "Maria",
+        "carrera": "Medicina",
+        "asignatura": "Fisiologia",
+        "promedio_de_notas": 7
+      }
+    ]
+}
+
